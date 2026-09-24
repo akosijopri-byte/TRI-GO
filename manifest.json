@@ -1,0 +1,17 @@
+{
+  "name": "TRI-GO Commuter Decision Support",
+  "short_name": "TRI-GO",
+  "description": "Traffic Response Indicator for Go, Wait, or Change. Know the traffic. Decide your move.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230F172A'/><text x='50%' y='55%' dominant-baseline='middle' text-anchor='middle' fill='%2322D3EE' font-family='sans-serif' font-weight='bold' font-size='110'>TRI-GO</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
